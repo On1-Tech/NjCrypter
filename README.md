@@ -13,7 +13,9 @@
 
 
 3.Support .NET 2.0 Files
+
 Scan:
+
 ![Image of detect](https://github.com/0xPh0enix/njCrypter/blob/master/Scan/Scan.png)
 
 
