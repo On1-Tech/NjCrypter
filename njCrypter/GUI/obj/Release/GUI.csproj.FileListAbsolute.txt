@@ -1,0 +1,8 @@
+C:\Users\King$oul\Desktop\njCrypter-master\GUI\bin\Release\GUI.exe
+C:\Users\King$oul\Desktop\njCrypter-master\GUI\bin\Release\GUI.pdb
+C:\Users\King$oul\Desktop\njCrypter-master\GUI\obj\Release\GUI.fMain.resources
+C:\Users\King$oul\Desktop\njCrypter-master\GUI\obj\Release\GUI.Properties.Resources.resources
+C:\Users\King$oul\Desktop\njCrypter-master\GUI\obj\Release\GUI.csproj.GenerateResource.cache
+C:\Users\King$oul\Desktop\njCrypter-master\GUI\obj\Release\GUI.csproj.CoreCompileInputs.cache
+C:\Users\King$oul\Desktop\njCrypter-master\GUI\obj\Release\GUI.exe
+C:\Users\King$oul\Desktop\njCrypter-master\GUI\obj\Release\GUI.pdb
